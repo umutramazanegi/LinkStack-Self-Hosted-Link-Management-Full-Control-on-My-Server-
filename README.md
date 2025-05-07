@@ -38,6 +38,8 @@ Bu repo, kendi sunucumda barındırdığım LinkStack kurulumumu tanıtmak amac�
   <em>Settings | Ayarlar</em><br>
   <img src="https://github.com/umutramazanegi/LinkStack-Self-Hosted-Link-Management-Full-Control-on-My-Server-/blob/main/Picture/themaSettings.png?raw=true" alt="Series" width="75%">
 </p>
+
+
 ---
 🔗 **My LinkStack Page | LinkStack Sayfam**
 *   Kişisel Link Sayfam (My Public Profile Page): `https://link.umutramazanegi.com/@umut`
