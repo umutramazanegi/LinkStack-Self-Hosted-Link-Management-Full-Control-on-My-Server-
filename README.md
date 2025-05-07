@@ -8,7 +8,37 @@ This repository serves as an introduction to my self-hosted LinkStack instance. 
 Bu repo, kendi sunucumda barındırdığım LinkStack kurulumumu tanıtmak amacıyla oluşturulmuştur. LinkStack, çevrimiçi bağlantıları yönetmek ve paylaşmak için etkili bir çözüm sağlayan, LinkTree'ye benzeyen ancak kendi kendine barındırma avantajıyla verilerim ve çevrimiçi varlığım üzerinde tam kontrol sahibi olmamı sağlayan bir platformdur.
 
 ---
+🖼️ **Screenshots | Ekran Görüntüleri**
+<p align="center">
+  <em>Login Screen | Giriş Ekranı</em><br>
+  <img src="https://github.com/umutramazanegi/LinkStack-Self-Hosted-Link-Management-Full-Control-on-My-Server-/blob/main/Picture/login.png?raw=true" alt="Login Screen" width="75%">
+</p>
 
+<p align="center">
+  <em>Dashboard | Anasayfa</em><br>
+  <img src="https://github.com/umutramazanegi/LinkStack-Self-Hosted-Link-Management-Full-Control-on-My-Server-/blob/main/Picture/Dashboard.png?raw=true" alt="Homepage" width="75%">
+</p>
+
+<p align="center">
+  <em>My Link Address | Link Adresim</em><br>
+  <img src="https://github.com/umutramazanegi/LinkStack-Self-Hosted-Link-Management-Full-Control-on-My-Server-/blob/main/Picture/mylink.png?raw=true" alt="Book List" width="75%">
+</p>
+
+<p align="center">
+  <em>Profile | Profil</em><br>
+  <img src="https://github.com/umutramazanegi/LinkStack-Self-Hosted-Link-Management-Full-Control-on-My-Server-/blob/main/Picture/profile.png?raw=true" alt="Authors" width="75%">
+</p>
+
+<p align="center">
+  <em>Public Link Page | Genel bağlantı sayfası</em><br>
+  <img src="https://github.com/umutramazanegi/LinkStack-Self-Hosted-Link-Management-Full-Control-on-My-Server-/blob/main/Picture/PublicLinkPage.png?raw=true" alt="Categories" width="75%">
+</p>
+
+<p align="center">
+  <em>Settings | Ayarlar</em><br>
+  <img src="https://github.com/umutramazanegi/LinkStack-Self-Hosted-Link-Management-Full-Control-on-My-Server-/blob/main/Picture/themaSettings.png?raw=true" alt="Series" width="75%">
+</p>
+---
 🔗 **My LinkStack Page | LinkStack Sayfam**
 *   Kişisel Link Sayfam (My Public Profile Page): `https://link.umutramazanegi.com/@umut`
 *   Platform Ana Adresi (Main Platform URL): `https://link.umutramazanegi.com/`
