@@ -76,10 +76,6 @@ Bu GitHub deposunun, LinkStack uygulamasının kendisini veya kişisel bağlant�
 *   Bu kurulumla ilgilenen kişilerin benimle iletişime geçebileceği net bir kanal sunmak.
 
 ---
-
-📄 **License | Lisans**
-
-🇬🇧 **English**
 The textual content of this README.md file is made available under the MIT License.
 
 🇹🇷 **Türkçe**
